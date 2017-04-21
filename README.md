@@ -1,2 +1,2 @@
 # hello-world2
-starting
+ to learn git hub for the university projects.
